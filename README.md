@@ -56,9 +56,6 @@ The project focuses on creating a clean, minimal, and user-friendly shopping exp
 
 ---
 
-## Screenshots
-
-(Add screenshots here)
 
 ---
 
